@@ -1,2 +1,7 @@
 # awesome-speech-llm
-Awesome speech LLMs, and everything needed to achieve it.
+
+Cool speech-llm-related papers
+
+
+## text to audio
+1. AudioGen: https://felixkreuk.github.io/audiogen/paper.pdf
