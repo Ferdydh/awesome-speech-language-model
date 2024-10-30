@@ -1,4 +1,4 @@
-# awesome speech language models
+# awesome speech language model
 
 Cool speech language model papers
 
